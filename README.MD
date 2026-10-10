@@ -18,7 +18,6 @@ A small browser-based number guessing game built with HTML, CSS, and JavaScript.
 Example local server:
 
 ```bash
-cd "/media/ahmed/Data1/JavaScript-master/DOM- Evenets_04/Guess_My_Number_Game"
 python -m http.server 8000
 ```
 
